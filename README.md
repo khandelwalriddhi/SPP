@@ -3,20 +3,22 @@
 This project uses machine learning to predict future stock prices based on historical market data. It includes data preprocessing, visualization, feature engineering, and model building using algorithms like Linear Regression, LSTM, or other predictive models. The goal is to provide a simple, intuitive tool to understand and forecast stock price trends.
 
 🔧 *Features*
-Data preprocessing and cleaning
 
-Exploratory Data Analysis (EDA)
+1. Data preprocessing and cleaning
 
-Time series forecasting models (e.g., LSTM, ARIMA, etc.)
+2. Exploratory Data Analysis (EDA)
 
-Visualization of actual vs. predicted prices
+3. Time series forecasting models (e.g., LSTM, ARIMA, etc.)
 
-Easy-to-read code and modular structure
+4. Visualization of actual vs. predicted prices
+
+5. Easy-to-read code and modular structure
 
 
 🚀 *How to Run*
-Install dependencies from requirements.txt
 
-Run the notebook or script
+1. Install dependencies from requirements.txt
 
-View the predicted vs. actual stock price plots
+2. Run the notebook or script
+
+3. View the predicted vs. actual stock price plots
